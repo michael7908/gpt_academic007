@@ -139,7 +139,7 @@ ADD_WAIFU = False
 
 # 设置用户名和密码（不需要修改）（相关功能不稳定，与gradio版本和网络都相关，如果本地使用不建议加这个）
 # [("username", "password"), ("username2", "password2"), ...]
-AUTHENTICATION = []
+AUTHENTICATION = [("test001", "Welcome2")]
 
 
 # 如果需要在二级路径下运行（常规情况下，不要修改!!）（需要配合修改main.py才能生效!）
